@@ -1,0 +1,6 @@
+--key: mKZ12lMVxmPxJzAy
+
+--bypasser v2 key: Cx1lHatBypAcxS12
+
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/vqmpjay/chatbypasser/main/chatbypasserv1'),true))()
